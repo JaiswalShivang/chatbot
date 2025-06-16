@@ -1,0 +1,17 @@
+{
+  "name": "AI Dost - Your Friendly AI Companion",
+  "short_name": "AI Dost",
+  "description": "Chat with AI Dost - Your friendly AI companion available 24/7",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ],
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#0f172a",
+  "background_color": "#0f172a",
+  "orientation": "portrait"
+}
